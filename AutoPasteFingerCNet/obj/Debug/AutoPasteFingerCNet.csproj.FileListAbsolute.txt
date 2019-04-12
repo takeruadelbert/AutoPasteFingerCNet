@@ -1,9 +1,0 @@
-D:\Kantor\C#\AutoPasteFingerCNet\AutoPasteFingerCNet\bin\Debug\AutoPasteFingerCNet.exe.config
-D:\Kantor\C#\AutoPasteFingerCNet\AutoPasteFingerCNet\bin\Debug\AutoPasteFingerCNet.exe
-D:\Kantor\C#\AutoPasteFingerCNet\AutoPasteFingerCNet\bin\Debug\AutoPasteFingerCNet.pdb
-D:\Kantor\C#\AutoPasteFingerCNet\AutoPasteFingerCNet\bin\Debug\libzkfpcsharp.dll
-D:\Kantor\C#\AutoPasteFingerCNet\AutoPasteFingerCNet\obj\Debug\AutoPasteFingerCNet.csprojAssemblyReference.cache
-D:\Kantor\C#\AutoPasteFingerCNet\AutoPasteFingerCNet\obj\Debug\AutoPasteFingerCNet.csproj.CoreCompileInputs.cache
-D:\Kantor\C#\AutoPasteFingerCNet\AutoPasteFingerCNet\obj\Debug\AutoPasteFingerCNet.csproj.CopyComplete
-D:\Kantor\C#\AutoPasteFingerCNet\AutoPasteFingerCNet\obj\Debug\AutoPasteFingerCNet.exe
-D:\Kantor\C#\AutoPasteFingerCNet\AutoPasteFingerCNet\obj\Debug\AutoPasteFingerCNet.pdb
